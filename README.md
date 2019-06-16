@@ -1,6 +1,7 @@
 For the meteor users:
 
 install:
+
 meteor add justinumesh:agenda
 
 
@@ -621,6 +622,7 @@ Agenda has some great community members that help a great deal.
 @liamdon
 @loris
 @jakeorr
+
 License
 (The MIT License)
 
