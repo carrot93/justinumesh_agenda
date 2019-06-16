@@ -1,0 +1,25 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "node_modules": "npm/node_modules",
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "web.cordova-legacy/packages/justinumesh_agenda.js",
+      "length": 1291,
+      "offset": 0,
+      "servePath": "/packages/justinumesh_agenda.js",
+      "sourceMap": "web.cordova-legacy/packages/justinumesh_agenda.js.map"
+    }
+  ],
+  "packageVariables": [
+    {
+      "name": "Agenda",
+      "export": true
+    }
+  ]
+}

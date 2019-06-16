@@ -1,0 +1,28 @@
+{
+  "format": "isopack-2-unibuild",
+  "declaredExports": [
+    {
+      "name": "Agenda",
+      "testOnly": false
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "node_modules": "npm/node_modules",
+  "resources": [
+    {
+      "type": "source",
+      "extension": "js",
+      "file": "os/agenda.js",
+      "length": 233,
+      "offset": 0,
+      "usesDefaultSourceProcessor": true,
+      "path": "agenda.js",
+      "hash": "1c42c6272c0cb1ce2b1d6b3d995384b07ffa6e62",
+      "fileOptions": {}
+    }
+  ]
+}
