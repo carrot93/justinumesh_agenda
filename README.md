@@ -1,3 +1,9 @@
+For the meteor users:
+
+install:
+meteor add justinumesh:agenda
+
+
 Agenda is a light-weight job scheduling library for Node.js.
 
 It offers:
